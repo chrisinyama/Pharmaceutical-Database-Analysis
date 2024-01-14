@@ -1,14 +1,20 @@
 ## Pharmaceutical Database Analysis: Bolton Region
-Table of Contents
-Introduction
-Data Import
-Query 1: Details of Drugs in Tablet or Capsule Form
-Query 2: Total Quantity for Each Prescription
-Query 3: Distinct Chemical Substances in the Drugs Table
-Query 4: Number of Prescriptions and Cost Statistics by BNF Chapter Code
-Query 5: Most Expensive Prescription by Practice
-Additional Functionalities
-Conclusion
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Data Import](#data-import)
+3. [Query 1: Details of Drugs in Tablet or Capsule Form](#query-1)
+4. [Query 2: Total Quantity for Each Prescription](#query-2)
+5. [Query 3: Distinct Chemical Substances in the Drugs Table](#query-3)
+6. [Query 4: Number of Prescriptions and Cost Statistics by BNF Chapter Code](#query-4)
+7. [Query 5: Most Expensive Prescription by Practice](#query-5)
+8. [Additional Functionalities](#additional-functionalities)
+    - [Query 6: [Description]](#query-6)
+    - [Query 7: [Description]](#query-7)
+    - ...
+9. [Conclusion](#conclusion)
+
 Introduction <a name="introduction"></a>
 This GitHub repository contains the code and results for the analysis of prescription data from the NHS in England, focusing on the Bolton region. The dataset consists of three related tables: Medical Practice, Drugs, and Prescriptions. The goal is to create a database, import the data, and execute various T-SQL queries to gain insights into medication types, prescribing organizations, and prescription quantities.
 
