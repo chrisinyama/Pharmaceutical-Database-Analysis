@@ -1,5 +1,8 @@
 ## Pharmaceutical Database Analysis: Bolton Region
 
+![Pharmaceutical Image](https://github.com/chrisinyama/Pharmaceutical-Database-Analysis/raw/main/Pharmaceutical.jpg)
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
